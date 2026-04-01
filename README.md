@@ -30,7 +30,7 @@
 ![Training Plot](results/training_plot1.png)
 
 ### Confusion Matrix
-![Confusion Matrix](results/confusion_matrix1.png)
+
 
 ## Структура репозитория
 ```
@@ -55,11 +55,7 @@ MIT
 
 Добавила проверку. Взяла рандомные фото ростков черной травы ( не из датасета). Результат положительный.
 
-### Пример 1 — Black-grass (уверенность 82,9%)
-![Prediction Maize](results/prediction_example.png)
 
-### Пример 2 — Black-grass (уверенность 96.3%)
-![Prediction Black-grass](results/prediction_example-2.png)
 
 ## Ссылка на блокнот
 
