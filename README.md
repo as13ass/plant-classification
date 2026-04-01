@@ -42,11 +42,11 @@
 
 ### График обучения
 
-![Training Plot](results/training_plot1.png)
+![Training Plot](results/training_plot.png)
 
 ### Confusion Matrix
 
-![Confusion Matrix](results/confusion_matrix1.png)
+![Confusion Matrix](results/confusion_matrix.png)
 
 ## Структура репозитория
 
