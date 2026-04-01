@@ -27,10 +27,10 @@
 | Val Accuracy | 95.9% (макс) |
 
 ### График обучения
-![Training Plot](results/photo2.png)
+![Training Plot](results/training_plot.png)
 
 ### Confusion Matrix
-![Confusion Matrix](results/photo1.png)
+![Confusion Matrix](results/confusion_matrix.png)
 
 ## Структура репозитория
 ```
