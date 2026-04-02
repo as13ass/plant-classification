@@ -58,7 +58,7 @@ plant-classification/
 
 ├── requirements.txt
 
-├── src/
+├── plants.ipynb
 
 └── results/
 
